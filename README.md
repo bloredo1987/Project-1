@@ -1,6 +1,6 @@
 # Project-1 (https://github.com/liceloo/Project1_EdX/tree/main)
 
-## Question 4: Is E-Sports taking over traditional sports in the US? (Brandon Loredo)
+## Question : Is E-Sports taking over traditional sports in the US? (Brandon Loredo)
 Jupyter Notebook: Project 1.ipynb (Branch - Brandon)
 
 This section compares the earnings betweeon eSports and Active sports earners from the years 2013 to 2021.
